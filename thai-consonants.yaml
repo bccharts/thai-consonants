@@ -1,0 +1,55 @@
+label: Consonants
+output: 'thai-consonants.pdf'
+updated: 2 March 2015
+letters:
+  - ก | [k]ɔɔ kày | g | M | chicken |
+  - ข | [kh]ɔ̌ɔ khày | g | H | egg |
+  - ค | [kh]ɔɔ khwaay | g | L | water buffalo |
+  - ฆ | [kh]ɔɔ rakhaŋ | g | L | bell |
+  - ง | [ŋ]ɔɔ ŋuu | ŋ | L | snake | 3.5
+  - จ | [c]ɔɔ caan | d | M | plate | 2
+  - ฉ | [ch]ɔ̌ɔ chìŋ | | H | cymbals |
+  - ช | [ch]ɔɔ cháaŋ | d | L | elephant |
+  - ซ | [s]ɔɔ sôo | d | L | chain |
+  - ฌ | [ch]ɔɔ chəə | | L | tree | -3
+  - ญ | [y]ɔɔ yǐŋ | n | L | woman | -3
+  - ฎ | [d]ɔɔ chadaa | d | M | headdress |
+  - ฏ | [t]ɔɔ patàg | d | M | javelin |
+  - ฐ | [th]ɔ̌ɔ thǎan | d | H | pedestal | 4
+  - ฑ | [th]ɔɔ monthoo | d | L | Montho |
+  - ฒ | [th]ɔɔ phûuthâw | d | L | elder | -3
+  - ณ | [n]ɔɔ neen | n | L | novice monk | -3
+  - ด | [d]ɔɔ dèg | d | M | child |
+  - ต | [t]ɔɔ tàw | d | M | turtle |
+  - ถ | [th]ɔ̌ɔ thǔŋ | d | H | sack | 1
+  - ท | [th]ɔɔ thahǎan | d | L | soldier |
+  - ธ | [th]ɔɔ thoŋ | d | L | flag | 1.5
+  - น | [n]ɔɔ nǔu | n | L | mouse |
+  - บ | [b]ɔɔ baymáay | b | M | leaf |
+  - ป | [p]ɔɔ plaa | b | M | fish |
+  - ผ | [ph]ɔ̌ɔ phʉŋ | | H | bee | 1
+  - ฝ | [f]ɔ̌ɔ fǎa | | H | lid | 1
+  - พ | [ph]ɔɔ phaan | b | L | tray | -1
+  - ฟ | [f]ɔɔ fan | b | L | teeth | -1
+  - ภ | [ph]ɔɔ sǎmphaw | b | L | sailboat | -1
+  - ม | [m]ɔɔ máa | m | L | horse |
+  - ย | [y]ɔɔ yág | y | L | giant |
+  - ร | [r]ɔɔ rʉa | n | L | boat | 2
+  - ล | [l]ɔɔ liŋ | n | L | monkey |
+  - ว | [w]ɔɔ wɛ̌ɛn | w | L | ring | 2
+  - ศ | [s]ɔ̌ɔ sǎalaa | d | H | pavilion |
+  - ษ | [s]ɔ̌ɔ rʉʉsǐi | d | H | hermit |
+  - ส | [s]ɔ̌ɔ sʉa | d | H | tiger | 1
+  - ห | [h]ɔ̌ɔ hìib | | H | box |
+  - ฬ | [l]ɔɔ culaa | n | L | kite | -1
+  - อ | [ˀ]ɔɔ ˀàaŋ | | M | basin | 1
+  - ฮ | [h]ɔɔ nóghûug | | L | owl | 1
+manual:
+  # sua
+  - char: ̌
+    x: 714.2
+    y: 134.9
+  # phung
+  - char: ̂
+    x: 420.8
+    y: 494.8
